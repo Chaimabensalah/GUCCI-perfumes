@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../../../../Downloads/apple_website_public/public"
+		},
+		{
+			"name": "apple_website",
+			"path": ".."
+		},
+		{
+			"name": "apple_website_public",
+			"path": "../../../../Downloads/apple_website_public"
+		}
+	],
+	"settings": {}
+}
